@@ -4,7 +4,7 @@
 
 ## 使用说明
 
-在[release]()中下载并双击运行，目前仅支持windows，其它平台请下载源码并重新编译。
+在[release](https://github.com/hhhxiao/VirusInfectionSimulation/releases)中下载并双击运行，目前仅支持windows，其它平台请下载源码并重新编译。
 
 打开后然后你可以看到如下的页面:
 
